@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello hello! 👋
 
 <!--
 **azkadz/azkadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![IMG_1090](https://github.com/azkadz/azkadz/assets/149225892/1a496ae1-405b-4247-bb7e-8f64a9579c53)
 
 
 - 🔭 I’m currently working on ...
@@ -16,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I'm Azka (he/him) and I'm a first-year Engineering Science student at the University of Oxford! 📚 
+
+I'm very interested in building my skills in data science and machine learning but also to develop further knowledge of data structures and algorithms! 👨‍💻 
+I want to be able to use programming to develop engineering solutions in the real world. 🛠️ 
+Currently studying C++, Python, MATLAB and I really want to get into React JS or HTML/CSS. 💭 
+
+I would love to know more about the GitHub communities and hopefully enter into competitions which will contribute something to those communities! 🤝 
+
