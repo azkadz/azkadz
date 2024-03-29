@@ -4,6 +4,8 @@
 **azkadz/azkadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![IMG_1090](https://github.com/azkadz/azkadz/assets/149225892/1a496ae1-405b-4247-bb7e-8f64a9579c53)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
