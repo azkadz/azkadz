@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Azka (he/him) and I'm a first-year Engineering Science student at the University of Oxford! 📚 
+Hello! I'm Azka (he/him) and I'm a second-year Engineering Science student at the University of Oxford! 📚 
 
 I'm very interested in building my skills in data science and machine learning but also to develop further knowledge of data structures and algorithms! 👨‍💻 
 I want to be able to use programming to develop engineering solutions in the real world. 🛠️ 
